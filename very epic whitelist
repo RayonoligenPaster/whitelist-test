@@ -1,3 +1,3 @@
-if game.Players.LocalPlayer.UserId == 3226326054 then
+if game.Players.LocalPlayer.UserId == 3226326054 or 3270121341 then
 game.Players.LocalPlayer:Kick("\nYou've been banned by: Blox Fruits Anticheat\nFor the reason of: damn nice script\n21000000000000 days remaining until unban")
 end
