@@ -1,7 +1,8 @@
 if game.Players.LocalPlayer.UserId == 3226326054 or 3270121341 then
-print("whitelisted")
+print("whitelisted, please wait")
 else
 player.Kick("not whitelisted, contact epic#2439 if this is an error lmfao")
 end
 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RayonoligenPaster/sotormy-paste/main/main?token=GHSAT0AAAAAABPMVBXJR5FB2MJZH7M6LPKQYPVHR6A"))()
 
