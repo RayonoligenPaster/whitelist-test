@@ -1,3 +1,5 @@
 if game.Players.LocalPlayer.UserId == 3226326054 or 3270121341 then
-loadstring(game:HttpGet("", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RayonoligenPaster/sotormy-paste/main/testering?token=GHSAT0AAAAAABPMVBXICGOJPW4SFU75L5PGYPVGRBQ", true))()
+else
+player.Kick("not whitelisted, contact epic#2439 if this is an error lmfao")
 end
