@@ -1,9 +1,14 @@
-	wait(1.2)
-	game.StarterGui:SetCore("SendNotification", {
-	Title = "nah"; -- 
-	Text = "gay"; -- 
-	Duration = 7; -- 
-	})
+--[[ ==========  Executed Check  ========== ] (project evo)
+
+if getgenv().evov2 then
+    game:GetService("StarterGui"):SetCore("SendNotification", {
+        Title = "EvoV2",
+        Text = "EvoV2 has already been executed in this game"
+    })
+    return
+end
+
+getgenv().evov2 = true
 
 	BeforeLoad = tick()
 	getgenv().values = {}
