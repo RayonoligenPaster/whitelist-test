@@ -1,14 +1,14 @@
 --[[ ==========  Executed Check  ========== ] (project evo)
 
-if getgenv().evov2 then
+if getgenv().nigger then
     game:GetService("StarterGui"):SetCore("SendNotification", {
-        Title = "EvoV2",
-        Text = "EvoV2 has already been executed in this game"
+        Title = "hi",
+        Text = "already executed so stfu"
     })
     return
 end
 
-getgenv().evov2 = true
+getgenv().nigger = true
 
 	BeforeLoad = tick()
 	getgenv().values = {}
