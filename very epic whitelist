@@ -1,12 +1,3 @@
-if getgenv().nigger then
-    game:GetService("StarterGui"):SetCore("SendNotification", {
-        Title = "hi",
-        Text = "already executed so stfu"
-    })
-    return
-end
-
-getgenv().nigger = true
 wait(1)
 	BeforeLoad = tick()
 	getgenv().values = {}
